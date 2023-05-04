@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align:left;
+    padding-left: 200px;
+}
+.container{
+    width: 500px;
+    text-align:left;
+    padding-left: 200px;
+}
+table {
+    font-family:sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+  }
+  #clear{
+    margin-left: 600px;
+  }
